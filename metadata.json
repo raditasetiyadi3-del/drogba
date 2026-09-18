@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Muatan Kapal & Penumpang",
+  "description": "Aplikasi manajemen logistik muatan kapal kargo dan manifest penumpang berbasis Firebase Firestore real-time dengan validasi ketat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
